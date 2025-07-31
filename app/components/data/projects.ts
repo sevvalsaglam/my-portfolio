@@ -1,6 +1,17 @@
 import { ProjectCardProps } from "../project-card";
 
 export const projects: ProjectCardProps[] = [
+  
+  {
+    title: "Biyeganem Organizasyon",
+    description:
+      "Elegant and responsive website designed for a modern event planning company. Developed with cutting-edge technologies to highlight services and enhance client engagement.",
+    mediaType: "image",
+    mediaSrc: "/biyeganem.jpg",
+    link: "",
+    website: "",
+    tags: ["React", "Vite"],
+  },
     {
       title: "Siria Astro",
       description:
